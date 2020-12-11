@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/sachin/data/play-scala-scheduler-example/conf/application.conf,/home/sachin/data/play-scala-scheduler-example/target/scala-2.13/classes/application.conf)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/sachin/data/play-scala-scheduler-example/conf/messages,/home/sachin/data/play-scala-scheduler-example/target/scala-2.13/classes/messages)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/sachin/data/play-scala-scheduler-example/conf/logback.xml,/home/sachin/data/play-scala-scheduler-example/target/scala-2.13/classes/logback.xml)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/sachin/data/play-scala-scheduler-example/conf/routes,/home/sachin/data/play-scala-scheduler-example/target/scala-2.13/classes/routes)[0m
